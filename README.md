@@ -2,7 +2,8 @@
 What's this repository about?
 
 I have found that many people have problem with Export models to CSV of Excel files.
-When export does ForeignKey it comes as number into Excel but not as a string.
+When you do export problem is when  ForeignKey it comes as number into Excel but not as a string.
+
 Here is solution how to get a string in your CSV or Excel.
 
 How do I run this project locally?
