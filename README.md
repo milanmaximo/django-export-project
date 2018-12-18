@@ -14,7 +14,7 @@ git clone https://github.com/milanmaximo/django-export-project.git
 
 3. Run migrations:
 
-python manage.py migrate
+"python manage.py migrate"
 
 4. Create a user:
 
