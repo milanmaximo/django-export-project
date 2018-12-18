@@ -10,8 +10,9 @@ How do I run this project locally?
 
 1. Clone the repository:
 
+```bash
 git clone https://github.com/milanmaximo/django-export-project.git
-
+```
 2. Install -r requirements.txt 
 
 3. Run migrations:
